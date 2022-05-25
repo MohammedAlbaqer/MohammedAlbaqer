@@ -3,3 +3,4 @@ Salam🖐, I'm Mohammed Al Baqer From Iraq, Computer science student at Al-Musta
 ## Skills and Experience
 * 💻 HTML, CSS
 * 💜 C#
+* 📂 SQL
