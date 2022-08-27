@@ -1,6 +1,6 @@
 # Mohammed Al Baqer
-Salam🖐, I'm Mohammed Al Baqer From Iraq, Computer science student at Al-Mustansiriyah University, a Junior Software Engineer especially in Front-End development.
+Salam🖐, I'm Mohammed Al Baqer From Iraq, Computer science student at Al-Mustansiriyah University.
 ## Skills and Experience
-* 💻 HTML, CSS
+* 💻 HTML, CSS, JS
 * 💜 C#
 * 📂 SQL
